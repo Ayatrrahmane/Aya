@@ -1,3 +1,24 @@
-دخلوا محازم فضة يهبلوووو 
-يلي راكم تستنوااا فيهم 💫وطالبين عليا نوفروهم 
-لحظات ونحطلكم صورهم في الصفحة محل فضة الملكة  😍 👇🎁ccgggvgc
+#include<stdoio.h>
+   #include<stdlib>
+   #include<string>
+int main() {
+1-
+char *chargerchaine (int N)
+char  *chaine =(char*
+gets( chaine )
+if(chaine==NULL)
+printf("erreur ; n)
+retuirn 1;
+printf ("veuillez saisir une chaine de caracteres :",N)
+scanf ("%c n,chaine);
+return chaine;
+2-
+int longueur(char *ch)
+int i=0;while(chaine [i]!= 0)
+i++;
+return i;
+3-
+void charger Tab(char *p,char Tab [])
+
+void inverser TAB(char Tabn[]ةؤاضق لإ FD
+
