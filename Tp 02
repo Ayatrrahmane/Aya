@@ -17,8 +17,22 @@ int longueur(char *ch)
 int i=0;while(chaine [i]!= 0)
 i++;
 return i;
-3-
+3- int i;
 void charger Tab(char *p,char Tab [])
+For(i=0;i<p;i++;
+  Tab[i]=p[i];
+void inverser Tab(char Tab[]
 
-void inverser TAB(char Tabn[]ةؤاضق لإ FD
 
+int main(){
+char  ch ;int n;printf("veuillez saisir la taille maximale de la chaine :n");
+scanf("%d",&n);ch=chargerchaine (n);
+int m=longueur(ch);
+char tab[m],T[m];
+chargerTab(ch,Tab);
+AfficherTab(Tab,m);
+InverserTab(Tab,T,m);
+AfficherTab(T,m);
+free(ch);
+return 0;
+}
